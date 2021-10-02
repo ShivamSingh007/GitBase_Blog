@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/GitBase_Blog/static/css/main.ee3cf69f.chunk.css",
+    "main.js": "/GitBase_Blog/static/js/main.96995597.chunk.js",
+    "main.js.map": "/GitBase_Blog/static/js/main.96995597.chunk.js.map",
+    "runtime-main.js": "/GitBase_Blog/static/js/runtime-main.8ed77b41.js",
+    "runtime-main.js.map": "/GitBase_Blog/static/js/runtime-main.8ed77b41.js.map",
+    "static/js/2.4b0b94f8.chunk.js": "/GitBase_Blog/static/js/2.4b0b94f8.chunk.js",
+    "static/js/2.4b0b94f8.chunk.js.map": "/GitBase_Blog/static/js/2.4b0b94f8.chunk.js.map",
+    "static/js/3.810c7ca5.chunk.js": "/GitBase_Blog/static/js/3.810c7ca5.chunk.js",
+    "static/js/3.810c7ca5.chunk.js.map": "/GitBase_Blog/static/js/3.810c7ca5.chunk.js.map",
+    "index.html": "/GitBase_Blog/index.html",
+    "static/css/main.ee3cf69f.chunk.css.map": "/GitBase_Blog/static/css/main.ee3cf69f.chunk.css.map",
+    "static/js/2.4b0b94f8.chunk.js.LICENSE.txt": "/GitBase_Blog/static/js/2.4b0b94f8.chunk.js.LICENSE.txt",
+    "static/media/Svm.e7bbe53b.jpeg": "/GitBase_Blog/static/media/Svm.e7bbe53b.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ed77b41.js",
+    "static/js/2.4b0b94f8.chunk.js",
+    "static/css/main.ee3cf69f.chunk.css",
+    "static/js/main.96995597.chunk.js"
+  ]
+}
